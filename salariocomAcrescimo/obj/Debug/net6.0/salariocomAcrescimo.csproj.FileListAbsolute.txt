@@ -1,0 +1,14 @@
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\bin\Debug\net6.0\salariocomAcrescimo.exe
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\bin\Debug\net6.0\salariocomAcrescimo.deps.json
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\bin\Debug\net6.0\salariocomAcrescimo.runtimeconfig.json
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\bin\Debug\net6.0\salariocomAcrescimo.dll
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\bin\Debug\net6.0\salariocomAcrescimo.pdb
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\obj\Debug\net6.0\salariocomAcrescimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\obj\Debug\net6.0\salariocomAcrescimo.AssemblyInfoInputs.cache
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\obj\Debug\net6.0\salariocomAcrescimo.AssemblyInfo.cs
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\obj\Debug\net6.0\salariocomAcrescimo.csproj.CoreCompileInputs.cache
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\obj\Debug\net6.0\salariocomAcrescimo.dll
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\obj\Debug\net6.0\refint\salariocomAcrescimo.dll
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\obj\Debug\net6.0\salariocomAcrescimo.pdb
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\obj\Debug\net6.0\salariocomAcrescimo.genruntimeconfig.cache
+C:\Users\lenov\source\repos\salariocomAcrescimo\salariocomAcrescimo\obj\Debug\net6.0\ref\salariocomAcrescimo.dll
